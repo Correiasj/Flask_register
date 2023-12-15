@@ -1,0 +1,24 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+/*  flex-direction:column ;
+  max-height:100 vh;
+  height:190vh;
+
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow:scroll ;*/
+  background: url("/static/img/lua.jpeg") no-repea center center;
+  background-size: cover;
+}
+h1 {
+background:red;
+}
